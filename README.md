@@ -1,0 +1,4 @@
+- 👋 Hi, I’m aaron
+- 👀 I’m interested in prototyping and programming for problem solving 
+- 🌱 I’m currently learning html 5 , css ,python and marlin
+- 💞️ I’m looking to collaborate on project that can challenge me
